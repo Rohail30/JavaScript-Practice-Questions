@@ -1,4 +1,5 @@
 # Java Script Practice questions
+# Mathematical
 
 ```jsx
 //Question-1: **[Armstrong Number](https://www.geeksforgeeks.org/problems/armstrong-numbers/0)?
