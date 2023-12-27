@@ -71,7 +71,7 @@ if (isNaN(day) || isNaN(month) || isNaN(year)) {
 ```
 
 ```jsx
-//Question:2 Angle between hour and minute hand
+//Question:3 Angle between hour and minute hand
 
 function calculateClockAngle(hours, minutes) {
     // Ensure the inputs are within valid range
