@@ -1,4 +1,3 @@
-# Java Script Practice questions
 # Mathematical
 
 ```jsx
