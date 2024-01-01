@@ -20,7 +20,7 @@ Day of the week
 
 Angle between hour and minute hand
 
-<h2>Basic JavaScript coding questions</h2>
+<h3>Basic JavaScript coding questions</h3>
 
 Function to find the maximum number in an array
 
