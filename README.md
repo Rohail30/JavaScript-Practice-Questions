@@ -19,3 +19,17 @@ Check if four points form a square
 Day of the week
 
 Angle between hour and minute hand
+
+<h2>Basic JavaScript coding questions</h2>
+
+Function to find the maximum number in an array
+
+Function to check if a string is a palindrome
+
+Function to filter even numbers from an array
+
+Function to calculate the factorial of a number
+
+Function to generate Fibonacci sequence up to a given number of terms
+
+Function to convert a string to title case
