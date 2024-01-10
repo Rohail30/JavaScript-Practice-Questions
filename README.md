@@ -37,3 +37,13 @@ Function to convert a string to title case
 <h3>Advanced JavaScript coding questions</h3>
 
 Write a function that takes an array of objects and a key, and returns a new array sorted based on the values of that key in ascending order. 
+
+Closures and Scope
+
+Promises and Async/Await
+
+Prototypes and Inheritance
+
+Event Handling
+
+
